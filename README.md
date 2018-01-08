@@ -11,7 +11,7 @@ Barcode assignment
 
 Chimeric sequence remove using ref and de novo
 
-Clustering (UCLUST in QIIME - open and closed ref)
+Clustering (UCLUST in QIIME - open and closed ref) also, Deblur and Dada2
 
 Singletons removed
 
