@@ -1,5 +1,5 @@
 # ZooFlow
-Amplicon analysis pipeline for interogation of COI sequence data.
+Amplicon analysis pipeline for interogation of COI sequence data. This is a work in progress.
 
 # Workflow notes
 
